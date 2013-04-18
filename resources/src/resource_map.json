@@ -1,0 +1,11 @@
+
+{"friendlyVersion": "VERSION",
+ "versionDefName": "APP_RESOURCES",
+ "media": [
+	   {
+	   "type": "font",
+	   "defName": "FONT_9",
+	   "file": "fonts/tahoma.ttf"
+	   }
+	  ]
+}
